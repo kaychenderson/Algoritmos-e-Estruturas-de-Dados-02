@@ -1,0 +1,8 @@
+1 - gcc media.c -o media.exe
+1 - g++ media.cpp -o media
+
+2 - gcc paridade.c -o paridade.exe
+2 - g++ paridade.cpp -o paridade
+
+3 - gcc vetor.c -o vetor.exe
+3 - g++ vetor.cpp -o vetor
